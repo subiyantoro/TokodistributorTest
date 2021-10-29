@@ -1,0 +1,8 @@
+export const GET_BANNER = "GET_BANNER"
+export const GET_CATEGORY = "GET_CATEGORY"
+export const GET_PRODUCTS = "GET_PRODUCTS"
+export const LOAD_BANNER = "LOAD_BANNER"
+export const LOAD_CATEGORY = "LOAD_CATEGORY"
+export const LOAD_PRODUCT = "LOAD_PRODUCT"
+export const LOAD_MORE_PRODUCT = "LOAD_MORE_PRODUCT"
+export const LOAD_MORE = "LOAD_MORE"
